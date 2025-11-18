@@ -1,4 +1,4 @@
-# 🤖 Rizi — AI/ML Engineer | Generative AI | MLOps | Applied Machine Learning
+# 🤖 Alex Rizi — AI/ML Engineer | Generative AI | MLOps | Applied Machine Learning
 
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-Expert-purple?style=for-the-badge&logo=openai)
 ![ML](https://img.shields.io/badge/Machine%20Learning-7%2B%20Years-blue?style=for-the-badge&logo=python)
